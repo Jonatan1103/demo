@@ -3,3 +3,4 @@
 - puxando mudança do arquivo remoto para arquivo local.
 - Corrigindo erros
 
+- Thales aqui! Editei esta linha para teste...
